@@ -1,0 +1,5 @@
+Arduino Uno
+Relay (SRD-05VDC-SL-C 5V )
+Water Flow Sensor
+Wires
+Adaptor 12v
